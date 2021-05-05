@@ -39,7 +39,7 @@ $ npm install @drizzle/vue-plugin
        SimpleStorage: ['StorageSet']
      },
      polls: {
-       // check accounts ever 15 seconds
+       // check accounts every 15 seconds
        accounts: 15000
      }
    }
